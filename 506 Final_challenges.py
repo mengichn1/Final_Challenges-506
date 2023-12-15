@@ -1,7 +1,6 @@
-
 Project 506 Solutions
 
-Questin 1: Palindrome Checker
+Question 1: Palindrome Checker
 
 # defining palindrome
 def is_palindrome(input_str):
@@ -40,7 +39,7 @@ print(is_palindrome("A man, a plan, a canal, Panama"))
 print(is_palindrome("Was it a car or a cat I saw?"))
 
 
-Questin 2: Implementing a Queue using Stacks
+Question 2: Implementing a Queue using Stacks
 
 # defining and implementing a queue 
 class QueueWithStacks:
